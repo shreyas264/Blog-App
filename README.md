@@ -38,5 +38,3 @@ A full-stack Blog Application built using the MERN stack that allows users to cr
 
 ---
 
-## 📂 Project Structure
-
